@@ -11,6 +11,7 @@
 * 🤖 Actively learning and mastering **Claude Code** for AI-assisted engineering.
 * 🧠 Deeply interested in Generative AI, Machine Learning, and automated AI agents.
 * 💬 Ask me about integrating Gemini, Claude, or running AI models locally.
+* 🌐 **Live Portfolio:** [portfolio-swapnil.vercel.app](https://portfolio-kohl-phi-1pq5smtvqz.vercel.app/)
 * 📫 How to reach me: **swapnilhazra8@gmail.com**
 
 ### 💻 Tech Stack & Skills:
