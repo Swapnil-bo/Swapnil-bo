@@ -9,8 +9,8 @@
 
 * 🚀 I'm currently focused on **Vibe Coding** and building local LLM systems.
 * 🤖 Actively learning and mastering **Claude Code** for AI-assisted engineering.
-* 🧠 Deeply interested in Generative AI, Machine Learning, and automated AI agents.
-* 💬 Ask me about integrating Gemini, Claude, or running AI models locally.
+* 🧠 Specializing in Applied Generative AI, Machine Learning, and autonomous agentic workflows.
+* 💬 Ask me about building multi-agent AI pipelines, RAG architectures, and deploying fully local LLM architectures via Ollama.
 
 ### 📫 Connect with me:
 <p>
