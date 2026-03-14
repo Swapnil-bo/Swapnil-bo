@@ -18,7 +18,7 @@ name: Swapnil Hazra
 location: Kolkata, India
 current_focus: "100 Days of Vibe Coding Challenge"
 roles: [AI Engineer, Generative AI Developer, Full-Stack AI Builder]
-education: "B.Tech — CSE"
+education: "B.Tech — CSE(AIML)"
 interests: [Multi-Agent Pipelines, RAG, Local LLMs, Voice AI, Agentic Workflows]
 fun_fact: "I build entire AI apps in single sessions and commit every step 🔥"
 ```
