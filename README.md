@@ -23,12 +23,6 @@ interests: [Multi-Agent Pipelines, RAG, Local LLMs, Voice AI, Agentic Workflows]
 fun_fact: "I build entire AI apps in single sessions and commit every step 🔥"
 ```
 
-- 🚀 Currently on a **100 Days of Vibe Coding** challenge — shipping AI-powered projects daily
-- 🤖 Building with **Claude Code** as my primary engineering tool
-- 🧠 Specializing in Applied Generative AI, autonomous agents, and multi-agent orchestration
-- 🎬 Latest build: **CutAI** — an AI film director & storyboard engine
-- 💬 Ask me about multi-agent pipelines, RAG architectures, and deploying fully local LLMs via Ollama
-
 ---
 
 ### 🔥 Featured Projects
