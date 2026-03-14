@@ -33,6 +33,22 @@ fun_fact: "I build entire AI apps in single sessions and commit every step 🔥"
 <tr>
 <td width="50%">
 
+**🤖 [J.A.R.V.I.S.](https://github.com/Swapnil-bo/jarvis)**
+Local voice assistant with surgical performance optimizations, self-healing prompts, and WhatsApp automation.
+`Python` `Ollama` `Voice AI` `Automation`
+
+</td>
+<td width="50%">
+
+**🧠 [NEXUS](https://github.com/Swapnil-bo/NEXUS)**
+Neural EXecution & Understanding System — multi-agent self-correcting Python code pipeline using LangGraph + Ollama.
+`LangGraph` `Ollama` `Multi-Agent` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 **🎬 [CutAI](https://github.com/Swapnil-bo/CutAI)**
 AI Film Director & Storyboard Engine with drag-and-drop scene editor. Cloud inference via Groq + Replicate.
 `React` `FastAPI` `Groq` `Replicate`
@@ -52,22 +68,6 @@ Multiplayer tabletop RPG with local Mistral 7B as Dungeon Master, RAG memory pip
 **🦋 [Butterfly Effect Simulator](https://github.com/Swapnil-bo/butterfly-effect-simulator)**
 Small life decisions → 10-year consequence chains visualized as interactive React Flow graphs. Built in ~3 hours.
 `React Flow` `Groq` `Vercel` `Render`
-
-</td>
-<td width="50%">
-
-**🧠 [NEXUS](https://github.com/Swapnil-bo/NEXUS)**
-Neural EXecution & Understanding System — multi-agent self-correcting Python code pipeline using LangGraph + Ollama.
-`LangGraph` `Ollama` `Multi-Agent` `Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🤖 [J.A.R.V.I.S.](https://github.com/Swapnil-bo/jarvis)**
-Local voice assistant with surgical performance optimizations, self-healing prompts, and WhatsApp automation.
-`Python` `Ollama` `Voice AI` `Automation`
 
 </td>
 <td width="50%">
