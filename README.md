@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,100:D97757&height=180&section=header&text=&fontSize=0" width="100%" />
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D97757&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Swapnil+Hazra;AI+Engineer+%7C+Generative+AI;Crafting+Agentic+Workflows;Building+Local+LLM+Systems" alt="Typing SVG" />
 </div>
@@ -9,7 +11,7 @@
   <a href="https://leetcode.com/u/swapnilhazra8/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
 
 ### 🧑‍💻 About Me
 
@@ -23,7 +25,7 @@ interests: [Multi-Agent Pipelines, RAG, Local LLMs, Voice AI, Agentic Workflows]
 fun_fact: "I build entire AI apps in single sessions and commit every step 🔥"
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
 
 ### 🔥 Featured Projects
 
@@ -80,7 +82,7 @@ URL/PDF/Wikipedia → AI-generated audio podcast pipeline using Gemini, edge-tts
 
 > 💡 *All projects built during my **100 Days of Vibe Coding** challenge — each with step-by-step commit history.*
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
 
 ### 💻 Tech Stack
 
@@ -138,7 +140,7 @@ URL/PDF/Wikipedia → AI-generated audio podcast pipeline using Gemini, edge-tts
 </p>
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
 
 ### 📊 GitHub Stats
 
@@ -151,7 +153,7 @@ URL/PDF/Wikipedia → AI-generated audio podcast pipeline using Gemini, edge-tts
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-bo&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
 
 ### 📈 Contribution Graph
 
@@ -159,7 +161,7 @@ URL/PDF/Wikipedia → AI-generated audio podcast pipeline using Gemini, edge-tts
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swapnil-bo&theme=redical&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
@@ -168,3 +170,5 @@ URL/PDF/Wikipedia → AI-generated audio podcast pipeline using Gemini, edge-tts
 <div align="center">
   <b>⚡ "Ship fast. Break things. Let the agents fix it." ⚡</b>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:141321&height=120&section=footer" width="100%" />
