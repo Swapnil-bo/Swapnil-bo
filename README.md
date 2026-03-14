@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>AI Engineer | Generative AI | Crafting Agentic Workflows</h3>
-  <img src="https://komarev.com/ghpvc/?username=Swapnil-bo&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Swapnil-bo&color=8a2be2&style=flat" alt="Profile Views" />
 </div>
 
 <br/>
