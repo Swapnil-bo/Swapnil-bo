@@ -146,7 +146,7 @@ URL/PDF/Wikipedia → AI-generated audio podcast pipeline using Gemini, edge-tts
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Swapnil-bo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Swapnil-bo&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Swapnil-bo&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
