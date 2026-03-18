@@ -146,8 +146,13 @@ URL/PDF/Wikipedia → AI-generated audio podcast pipeline using Gemini, edge-tts
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Swapnil-bo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-bo&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-bo&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
 
 ### 📈 Contribution Graph
 
