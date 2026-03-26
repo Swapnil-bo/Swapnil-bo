@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Swapnil-bo&color=D97757&style=for-the-badge" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/swapnil-hazra-4831322b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://portfolio-kohl-phi-1pq5smtvqz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://swapnilhazra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://leetcode.com/u/swapnilhazra8/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </div>
 
