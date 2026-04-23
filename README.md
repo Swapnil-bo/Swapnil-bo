@@ -18,7 +18,7 @@
 ```yaml
 name: Swapnil Hazra
 location: Kolkata, India
-current_focus: "100 Days of Vibe Coding Challenge"
+current_focus: "Building privacy-first agents and local LLM systems"
 roles: [AI Engineer, Generative AI Developer, Full-Stack AI Builder]
 education: "B.Tech — CSE(AIML)"
 interests: [Multi-Agent Pipelines, RAG, Local LLMs, Voice AI, Agentic Workflows]
@@ -49,38 +49,36 @@ Neural EXecution & Understanding System — multi-agent self-correcting Python c
 <tr>
 <td width="50%">
 
-**🎬 [CutAI](https://github.com/Swapnil-bo/CutAI)**
-AI Film Director & Storyboard Engine with drag-and-drop scene editor. Cloud inference via Groq + Replicate.
-`React` `FastAPI` `Groq` `Replicate`
+**🎛️ [SynthBoard](https://github.com/Swapnil-bo/SynthBoard)**
+Local-first MLOps platform — QLoRA fine-tune any LLM on consumer GPUs, then pit it against the base model in a blind Elo arena. Full pipeline: upload → train → export → evaluate.
+`Python` `FastAPI` `React` `unsloth` `QLoRA` `Ollama`
 
 </td>
 <td width="50%">
 
-**🐉 [LoreWeaver](https://github.com/Swapnil-bo/LoreWeaver)**
-Multiplayer tabletop RPG with local Mistral 7B as Dungeon Master, RAG memory pipeline, and React Flow world map.
-`React Flow` `WebSocket` `Mistral 7B` `RAG`
+**🔍 [AutoResearcher](https://github.com/Swapnil-bo/AutoResearcher)**
+Local 3-agent deep research system — open-source Perplexity alternative. Reads the web, cites every claim, streams a full report. Runs entirely on a 6GB GPU. Zero API keys.
+`LangGraph` `ChromaDB` `FastAPI` `React` `Ollama` `RAG`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**🦋 [Butterfly Effect Simulator](https://github.com/Swapnil-bo/butterfly-effect-simulator)**
-Small life decisions → 10-year consequence chains visualized as interactive React Flow graphs. Built in ~3 hours.
-`React Flow` `Groq` `Vercel` `Render`
+**🧩 [AI Product Teardown](https://github.com/Swapnil-bo/Ai-Product-Teardown)**
+Drop any product URL — get a board-room-grade PM teardown in 15 seconds. Personas, moat analysis, monetization gaps, red flags, and a kill/pivot/hold/scale verdict.
+`Python` `FastAPI` `React` `Groq` `LLaMA 3.3 70B`
 
 </td>
 <td width="50%">
 
-**🎙️ [EchoChamber](https://github.com/Swapnil-bo/EchoChamber)**
-URL/PDF/Wikipedia → AI-generated audio podcast pipeline using Gemini, edge-tts, and pydub.
-`Gemini` `edge-tts` `pydub` `Python`
+**📰 [The Multiverse Courier](https://github.com/Swapnil-bo/The-Multiverse-Courier)**
+AI newspaper that generates today's headlines from alternate timelines using a local LLM (Ollama + Mistral 7B).
+`FastAPI` `React` `Vite` `Tailwind` `Ollama` `Mistral 7B`
 
 </td>
 </tr>
 </table>
-
-> 💡 *All projects built during my **100 Days of Vibe Coding** challenge — each with step-by-step commit history.*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
 
