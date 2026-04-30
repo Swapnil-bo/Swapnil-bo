@@ -140,27 +140,6 @@ AI newspaper that generates today's headlines from alternate timelines using a l
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Swapnil-bo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Swapnil-bo&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-bo&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swapnil-bo&theme=redical&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>
