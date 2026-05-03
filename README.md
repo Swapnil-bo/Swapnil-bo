@@ -22,7 +22,7 @@ current_focus: "Building privacy-first agents and local LLM systems"
 roles: [AI Engineer, Generative AI Developer, Full-Stack AI Builder]
 education: "B.Tech — CSE(AIML)"
 interests: [Multi-Agent Pipelines, RAG, Local LLMs, Voice AI, Agentic Workflows]
-fun_fact: "I build entire AI apps in single sessions and commit every step 🔥"
+fun_fact: "I build entire AI apps in single sessions and commit every step. 🔥"
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
